@@ -16,7 +16,7 @@ See the [wiki](https://github.com/byteball/byteballcore/wiki/Byteball-Developer-
 The default settings are in the library's [conf.js](conf.js), they can be overridden in your project root's conf.js (see the clients above as examples), then in conf.json in the app data folder.  The app data folder is:
 
 * macOS: `~/Library/Application Support/<appname>`
-* Linux: `~/.config/<appname>`
+* Linux: `~/.GAEAconfig/<appname>`
 * Windows: `%LOCALAPPDATA%\<appname>`
 
 `<appname>` is `name` in your `package.json`.

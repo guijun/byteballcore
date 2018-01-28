@@ -1,20 +1,20 @@
 {
   "name": "byteballcore",
-  "description": "Byteball Core",
-  "author": "Byteball",
+  "description": "byteball Core",
+  "author": "GAEA",
   "version": "0.2.86",
   "keywords": [
-    "byteball",
+    "GAEA",
     "multisignature"
   ],
-  "homepage": "https://github.com/byteball/byteballcore",
+  "homepage": "https://github.com/guijun/byteballcore",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteballcore.git",
+    "url": "git://github.com/guijun/byteballcore.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteballcore/issues"
+    "url": "https://github.com/guijun/byteballcore/issues"
   },
   "browser": {
     "request": "browser-request",
@@ -26,7 +26,7 @@
     "lodash": "^4.6.1",
     "longjohn": "^0.2.11",
     "mysql": "^2.10.2",
-    "node4mailer": "git+https://github.com/edemaine/node4mailer.git",
+    "node4mailer": "git+https://github.com/guijun/node4mailer.git",
     "secp256k1": "^3.1.0",
     "socks": "1.1.10",
     "sqlite3": "^3.1.4",
